@@ -31,10 +31,8 @@ Clone directly into your global Claude Code skills folder:
 
 bash
 # macOS / Linux
-git clone https://github.com/YOUR_USERNAME/grilling-crew ~/.claude/skills/grilling-crew
+git clone https://github.com/rconverso99/grilling-crew ~/.claude/skills/grilling-crew
 
-# Windows
-git clone https://github.com/YOUR_USERNAME/grilling-crew $env:USERPROFILE\.claude\skills\grilling-crew
 
 Available immediately in every project on your machine. No restart needed.
 
